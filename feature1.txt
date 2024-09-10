@@ -5,3 +5,4 @@ another code ....
 commit 1 after merge
 
 Implementing feature 2 code
+more code in feature 2
